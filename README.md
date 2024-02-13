@@ -3,14 +3,14 @@
 ### 프로젝트 소개
 - 본 프로젝트는 서울시의 2022년과 2023년 부동산 거래 데이터와 법정동 좌표를 활용하여 재개발이 예상되는 지역을 식별합니다. 이를 통해 식별된 지역을 분석하고 Naver Open Search API를 활용하여 관련된 뉴스 기사를 수집하여 예측 결과를 더 깊이 분석할 수 있도록 구현해보았습니다.
 ---
+### Streamlit Web Application
+- 아래는 배포한 **Interactive Real Estate Dashboard** 입니다.
+  - [https://real-estate-dashboard-team-5.streamlit.app/](https://real-estate-dashboard-team-5.streamlit.app/)
+---
 ### 프로젝트 기간
 - 2024년02월02일 ~ 2024년2월08일까지 진행한 미니 프로젝트 입니다 !
 <img src="https://github.com/Kimtae00/real-estate-dashboard-team5/blob/main/images/WBS.png"/>
 
----
-### Streamlit Web Application
-- 아래는 배포한 **Interactive Real Estate Dashboard** 입니다.
-  - [https://real-estate-dashboard-team-5.streamlit.app/](https://real-estate-dashboard-team-5.streamlit.app/)
 ---
 ### 팀원 소개
 1. [hyelin606](https://github.com/hyelin606)
